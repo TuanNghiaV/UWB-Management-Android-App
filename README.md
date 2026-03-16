@@ -221,7 +221,7 @@ private const val TAG_MAC = "C5:72:82:1D:6F:59"  // Change to your tag's MAC
 
 Recorded data is saved to:
 ```
-/Android/data/maxbauer.uwbrtls.tool/files/Documents/
+/Android/data/com.tuannghiav.uwbassetmanagement/files/Documents/
 ```
 
 ## Limitations

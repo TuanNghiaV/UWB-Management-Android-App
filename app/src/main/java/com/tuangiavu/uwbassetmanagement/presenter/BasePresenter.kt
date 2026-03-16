@@ -1,0 +1,3 @@
+package com.tuangiavu.uwbassetmanagement.presenter
+
+interface BasePresenter

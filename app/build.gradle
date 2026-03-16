@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace "maxbauer.uwbrtls.tool"
+    namespace "com.tuangiavu.uwbassetmanagement"
     compileSdk 34
 
     defaultConfig {
-        applicationId "maxbauer.uwbrtls.tool"
+        applicationId "com.tuangiavu.uwbassetmanagement"
         minSdk 29
         targetSdk 34
         versionCode 1

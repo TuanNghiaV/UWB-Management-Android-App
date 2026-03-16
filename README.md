@@ -69,7 +69,7 @@ This application serves as an evaluation tool for UWB-based real-time localizati
 
 ```
 app/src/main/
-├── java/maxbauer/uwbrtls/tool/
+├── java/com/tuangiavu/uwbassetmanagement/
 │   ├── model/                 # Data layer
 │   │   ├── BluetoothService.kt      # BLE connection to DWM1001
 │   │   ├── ModelImpl.kt             # Model implementation

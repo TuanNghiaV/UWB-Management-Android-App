@@ -2,13 +2,11 @@
 
 An Android application for Ultra-Wideband (UWB) Real-Time Location System (RTLS) evaluation and asset tracking. This app connects to DWM1001 UWB tags via Bluetooth Low Energy (BLE) and displays real-time 3D position data with Kalman filtering.
 
-> **Note**: This project is based on the original [UWB-RTLS-Tool](https://github.com/maxbauer/UWB-RTLS-Tool) by Max Bauer. It has been adapted and modified for the UWB Asset Management use case.
-
 ## Overview
 
 This application serves as an evaluation tool for UWB-based real-time localization systems. It connects to a single DWM1001 UWB tag via BLE and provides:
 
-- Real-time 3D position coordinates (X, Y, Z)
+- 3D position coordinates (X, Y, Z)
 - Kalman-filtered position data for noise reduction
 - Raw and filtered accelerometer data
 - Device orientation (Yaw, Pitch, Roll)
@@ -117,7 +115,7 @@ app/src/main/
 
 - **UWB Tag**: DWM1001 Dev Kit (Decawave)
 - **Anchors**: Minimum 3 DWM1001 devices configured as anchors
-- **Tested Device**: Samsung Galaxy S8 (Android 9)
+- **Tested Device**: Xiaomi Redmi Note 10 (Android 11)
 
 ### Requirements
 
@@ -272,11 +270,5 @@ Possible future enhancements (not currently implemented):
 - **Base Project**: [UWB-RTLS-Tool](https://github.com/maxbauer/UWB-RTLS-Tool)
 - **Hardware**: [Decawave DWM1001](https://www.decawave.com/products/dwm1001-module)
 - **Kalman Filter Library**: [EJML](https://ejml.org)
-
-### Related Projects
-
-- [UWB-RTLS-VR](https://github.com/mabaue/UWB-RTLS-VR) - VR Android app with similar UWB logic
-
----
 
 *This app was developed as an evaluation tool for UWB-based localization systems. For production use, consider additional features like multi-tag support, network management, and data persistence based on your specific requirements.*

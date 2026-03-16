@@ -264,11 +264,6 @@ Possible future enhancements (not currently implemented):
 - [ ] Cloud data sync
 - [ ] Push notifications for zone alerts
 
-## Credits
 
-- **Original Author**: [Max Bauer](https://github.com/maxbauer/UWB-RTLS-Tool)
-- **Base Project**: [UWB-RTLS-Tool](https://github.com/maxbauer/UWB-RTLS-Tool)
-- **Hardware**: [Decawave DWM1001](https://www.decawave.com/products/dwm1001-module)
-- **Kalman Filter Library**: [EJML](https://ejml.org)
 
 *This app was developed as an evaluation tool for UWB-based localization systems. For production use, consider additional features like multi-tag support, network management, and data persistence based on your specific requirements.*

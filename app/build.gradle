@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace "com.tuangiavu.uwbassetmanagement"
+    namespace "com.tuannghiav.uwbassetmanagement"
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.tuangiavu.uwbassetmanagement"
+        applicationId "com.tuannghiav.uwbassetmanagement"
         minSdk 29
         targetSdk 34
         versionCode 1

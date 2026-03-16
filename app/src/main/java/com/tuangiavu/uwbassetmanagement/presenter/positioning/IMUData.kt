@@ -1,3 +1,3 @@
-package com.tuangiavu.uwbassetmanagement.presenter.positioning
+package com.tuannghiav.uwbassetmanagement.presenter.positioning
 
 data class IMUData(val accelerationData: AccelerationData, val orientationData: OrientationData)

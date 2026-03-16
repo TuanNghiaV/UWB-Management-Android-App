@@ -1,4 +1,4 @@
-package com.tuangiavu.uwbassetmanagement.presenter.recording
+package com.tuannghiav.uwbassetmanagement.presenter.recording
 
 enum class Directions {
     N,

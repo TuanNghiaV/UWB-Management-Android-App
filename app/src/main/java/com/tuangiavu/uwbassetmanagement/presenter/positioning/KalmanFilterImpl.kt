@@ -1,4 +1,4 @@
-package com.tuangiavu.uwbassetmanagement.presenter.positioning
+package com.tuannghiav.uwbassetmanagement.presenter.positioning
 
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers.Default

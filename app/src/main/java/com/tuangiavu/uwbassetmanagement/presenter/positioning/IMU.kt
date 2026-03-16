@@ -1,4 +1,4 @@
-package com.tuangiavu.uwbassetmanagement.presenter.positioning
+package com.tuannghiav.uwbassetmanagement.presenter.positioning
 
 import android.content.Context
 import android.hardware.SensorManager

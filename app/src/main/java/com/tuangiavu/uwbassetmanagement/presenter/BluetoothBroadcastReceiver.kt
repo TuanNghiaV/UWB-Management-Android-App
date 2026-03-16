@@ -1,4 +1,4 @@
-package com.tuangiavu.uwbassetmanagement.presenter
+package com.tuannghiav.uwbassetmanagement.presenter
 
 import android.bluetooth.BluetoothAdapter
 import android.content.BroadcastReceiver

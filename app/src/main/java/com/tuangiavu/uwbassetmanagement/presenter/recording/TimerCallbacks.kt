@@ -1,4 +1,4 @@
-package com.tuangiavu.uwbassetmanagement.presenter.recording
+package com.tuannghiav.uwbassetmanagement.presenter.recording
 
 interface TimerCallbacks {
     fun onTimerDone()

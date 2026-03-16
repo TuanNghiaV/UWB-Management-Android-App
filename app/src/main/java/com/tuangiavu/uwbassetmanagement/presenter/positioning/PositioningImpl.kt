@@ -1,8 +1,8 @@
-package com.tuangiavu.uwbassetmanagement.presenter.positioning
+package com.tuannghiav.uwbassetmanagement.presenter.positioning
 
 import android.content.Context
-import com.tuangiavu.uwbassetmanagement.utils.CompassUtil
-import com.tuangiavu.uwbassetmanagement.view.MainScreenContract
+import com.tuannghiav.uwbassetmanagement.utils.CompassUtil
+import com.tuannghiav.uwbassetmanagement.view.MainScreenContract
 
 private const val POSITION_BYTE_ARRAY_SIZE = 14
 

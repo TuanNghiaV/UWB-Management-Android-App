@@ -1,18 +1,18 @@
-package com.tuangiavu.uwbassetmanagement.presenter
+package com.tuannghiav.uwbassetmanagement.presenter
 
 import android.bluetooth.BluetoothAdapter
 import android.content.BroadcastReceiver
 import android.content.Context
 import android.content.IntentFilter
-import com.tuangiavu.uwbassetmanagement.model.Model
-import com.tuangiavu.uwbassetmanagement.model.ModelImpl
-import com.tuangiavu.uwbassetmanagement.model.Observable
-import com.tuangiavu.uwbassetmanagement.presenter.positioning.*
-import com.tuangiavu.uwbassetmanagement.presenter.recording.Directions
-import com.tuangiavu.uwbassetmanagement.presenter.recording.InputData
-import com.tuangiavu.uwbassetmanagement.presenter.recording.Recording
-import com.tuangiavu.uwbassetmanagement.presenter.recording.RecordingImpl
-import com.tuangiavu.uwbassetmanagement.view.MainScreenContract
+import com.tuannghiav.uwbassetmanagement.model.Model
+import com.tuannghiav.uwbassetmanagement.model.ModelImpl
+import com.tuannghiav.uwbassetmanagement.model.Observable
+import com.tuannghiav.uwbassetmanagement.presenter.positioning.*
+import com.tuannghiav.uwbassetmanagement.presenter.recording.Directions
+import com.tuannghiav.uwbassetmanagement.presenter.recording.InputData
+import com.tuannghiav.uwbassetmanagement.presenter.recording.Recording
+import com.tuannghiav.uwbassetmanagement.presenter.recording.RecordingImpl
+import com.tuannghiav.uwbassetmanagement.view.MainScreenContract
 
 class PresenterImpl(private val context: Context, private val view: MainScreenContract.View): MainScreenContract.Presenter,
     Observer {

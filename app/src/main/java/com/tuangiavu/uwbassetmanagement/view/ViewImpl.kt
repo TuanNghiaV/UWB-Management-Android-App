@@ -1,4 +1,4 @@
-package com.tuangiavu.uwbassetmanagement.view
+package com.tuannghiav.uwbassetmanagement.view
 
 import android.Manifest
 import android.app.AlertDialog
@@ -16,15 +16,15 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
-import com.tuangiavu.uwbassetmanagement.BuildConfig
-import com.tuangiavu.uwbassetmanagement.R
-import com.tuangiavu.uwbassetmanagement.databinding.ViewBinding
-import com.tuangiavu.uwbassetmanagement.presenter.PresenterImpl
-import com.tuangiavu.uwbassetmanagement.presenter.positioning.AccelerationData
-import com.tuangiavu.uwbassetmanagement.presenter.positioning.LocationData
-import com.tuangiavu.uwbassetmanagement.presenter.positioning.OrientationData
-import com.tuangiavu.uwbassetmanagement.presenter.recording.InputData
-import com.tuangiavu.uwbassetmanagement.utils.StringUtil
+import com.tuannghiav.uwbassetmanagement.BuildConfig
+import com.tuannghiav.uwbassetmanagement.R
+import com.tuannghiav.uwbassetmanagement.databinding.ViewBinding
+import com.tuannghiav.uwbassetmanagement.presenter.PresenterImpl
+import com.tuannghiav.uwbassetmanagement.presenter.positioning.AccelerationData
+import com.tuannghiav.uwbassetmanagement.presenter.positioning.LocationData
+import com.tuannghiav.uwbassetmanagement.presenter.positioning.OrientationData
+import com.tuannghiav.uwbassetmanagement.presenter.recording.InputData
+import com.tuannghiav.uwbassetmanagement.utils.StringUtil
 
 class ViewImpl : AppCompatActivity(), MainScreenContract.View,
     RecordingFixedPositionDialogListener {

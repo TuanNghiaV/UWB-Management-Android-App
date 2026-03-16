@@ -1,6 +1,6 @@
-package com.tuangiavu.uwbassetmanagement.presenter.positioning
+package com.tuannghiav.uwbassetmanagement.presenter.positioning
 
-import com.tuangiavu.uwbassetmanagement.utils.StringUtil
+import com.tuannghiav.uwbassetmanagement.utils.StringUtil
 
 data class AccelerationData(val xAcc: Double, val yAcc: Double, val zAcc: Double) {
 

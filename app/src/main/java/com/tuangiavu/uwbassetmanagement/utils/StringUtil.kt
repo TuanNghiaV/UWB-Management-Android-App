@@ -1,4 +1,4 @@
-package com.tuangiavu.uwbassetmanagement.utils
+package com.tuannghiav.uwbassetmanagement.utils
 
 object StringUtil {
 

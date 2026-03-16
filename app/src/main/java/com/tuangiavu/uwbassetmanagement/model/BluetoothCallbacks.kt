@@ -1,4 +1,4 @@
-package com.tuangiavu.uwbassetmanagement.model
+package com.tuannghiav.uwbassetmanagement.model
 
 interface BluetoothCallbacks {
     fun onBluetoothNotEnabled()

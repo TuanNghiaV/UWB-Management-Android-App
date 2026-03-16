@@ -1,4 +1,4 @@
-package com.tuangiavu.uwbassetmanagement.view
+package com.tuannghiav.uwbassetmanagement.view
 
 import android.app.AlertDialog
 import android.app.Dialog
@@ -9,8 +9,8 @@ import android.widget.EditText
 import android.widget.Spinner
 import android.widget.Toast
 import androidx.fragment.app.DialogFragment
-import com.tuangiavu.uwbassetmanagement.R
-import com.tuangiavu.uwbassetmanagement.presenter.recording.Directions
+import com.tuannghiav.uwbassetmanagement.R
+import com.tuannghiav.uwbassetmanagement.presenter.recording.Directions
 
 class RecordingFixedPositionDialog : DialogFragment(){
 

@@ -1,6 +1,6 @@
-package com.tuangiavu.uwbassetmanagement.utils
+package com.tuannghiav.uwbassetmanagement.utils
 
-import com.tuangiavu.uwbassetmanagement.presenter.recording.Directions
+import com.tuannghiav.uwbassetmanagement.presenter.recording.Directions
 
 // Yaw values for the 4 compass directions (determined empirically)
 private const val COMPASS_DIRECTION_YAW_NORTH = 12

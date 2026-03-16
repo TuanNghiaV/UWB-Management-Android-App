@@ -1,11 +1,11 @@
-package com.tuangiavu.uwbassetmanagement.view
+package com.tuannghiav.uwbassetmanagement.view
 
-import com.tuangiavu.uwbassetmanagement.presenter.BasePresenter
-import com.tuangiavu.uwbassetmanagement.presenter.positioning.AccelerationData
-import com.tuangiavu.uwbassetmanagement.presenter.positioning.LocationData
-import com.tuangiavu.uwbassetmanagement.presenter.positioning.OrientationData
-import com.tuangiavu.uwbassetmanagement.presenter.recording.Directions
-import com.tuangiavu.uwbassetmanagement.presenter.recording.InputData
+import com.tuannghiav.uwbassetmanagement.presenter.BasePresenter
+import com.tuannghiav.uwbassetmanagement.presenter.positioning.AccelerationData
+import com.tuannghiav.uwbassetmanagement.presenter.positioning.LocationData
+import com.tuannghiav.uwbassetmanagement.presenter.positioning.OrientationData
+import com.tuannghiav.uwbassetmanagement.presenter.recording.Directions
+import com.tuannghiav.uwbassetmanagement.presenter.recording.InputData
 
 interface MainScreenContract {
     interface View : BaseView<Presenter> {

@@ -1,4 +1,4 @@
-package com.tuangiavu.uwbassetmanagement.presenter.positioning
+package com.tuannghiav.uwbassetmanagement.presenter.positioning
 
 class ByteArrayToLocationDataConverter {
 

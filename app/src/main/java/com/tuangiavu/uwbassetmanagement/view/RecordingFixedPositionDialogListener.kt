@@ -1,4 +1,4 @@
-package com.tuangiavu.uwbassetmanagement.view
+package com.tuannghiav.uwbassetmanagement.view
 
 interface RecordingFixedPositionDialogListener {
 

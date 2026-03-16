@@ -1,7 +1,7 @@
-package com.tuangiavu.uwbassetmanagement.model
+package com.tuannghiav.uwbassetmanagement.model
 
 import android.content.Context
-import com.tuangiavu.uwbassetmanagement.presenter.Observer
+import com.tuannghiav.uwbassetmanagement.presenter.Observer
 import java.util.*
 
 class ModelImpl(val context: Context): Model {

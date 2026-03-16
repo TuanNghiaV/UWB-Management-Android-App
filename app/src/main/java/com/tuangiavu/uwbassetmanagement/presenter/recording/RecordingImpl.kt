@@ -1,7 +1,7 @@
-package com.tuangiavu.uwbassetmanagement.presenter.recording
+package com.tuannghiav.uwbassetmanagement.presenter.recording
 
 import android.content.Context
-import com.tuangiavu.uwbassetmanagement.view.MainScreenContract
+import com.tuannghiav.uwbassetmanagement.view.MainScreenContract
 
 // Entry class for handling recording logic
 class RecordingImpl(context: Context, private val presenter: MainScreenContract.Presenter): Recording,

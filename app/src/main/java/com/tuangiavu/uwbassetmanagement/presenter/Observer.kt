@@ -1,6 +1,6 @@
-package com.tuangiavu.uwbassetmanagement.presenter
+package com.tuannghiav.uwbassetmanagement.presenter
 
-import com.tuangiavu.uwbassetmanagement.model.Observable
+import com.tuannghiav.uwbassetmanagement.model.Observable
 
 interface Observer {
     fun onBluetoothNotEnabled(observable: Observable)
